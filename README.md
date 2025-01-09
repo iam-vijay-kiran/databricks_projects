@@ -1,1 +1,1 @@
-# Change data capture implementation using databricks
+learning and implementing projects using databricks
